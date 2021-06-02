@@ -1,0 +1,14 @@
+[icon]???
+[App]Edge
+[url1]https://cdn.discordapp.com/attachments/762149836048433153/762673062901973002/Edge0.zip
+[url2]https://cdn.discordapp.com/attachments/762149836048433153/762673185958920243/Edge1.zip
+[url3]https://cdn.discordapp.com/attachments/762149836048433153/762673240237670490/Edge2.zip
+[locationzip]C:/edge.zip
+[ExtractLocation]C:\Program Files (Arm)\Edge"
+[icon]???
+[App]notEdge
+[url1]https://cdn.discordapp.com/attachments/762149836048433153/762673062901973002/Edge0.zip
+[url2]https://cdn.discordapp.com/attachments/762149836048433153/762673185958920243/Edge1.zip
+[url3]https://cdn.discordapp.com/attachments/762149836048433153/762673240237670490/Edge2.zip
+[locationzip]C:/edge.zip
+[ExtractLocation]C:\Program Files (Arm)\Edge"
