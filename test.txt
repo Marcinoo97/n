@@ -1,14 +1,30 @@
-[icon]???
+[icon]https://marcinoo97.ct8.pl/worcp/icon/a.jpg
 [App]Edge
-[url1]https://cdn.discordapp.com/attachments/762149836048433153/762673062901973002/Edge0.zip
-[url2]https://cdn.discordapp.com/attachments/762149836048433153/762673185958920243/Edge1.zip
-[url3]https://cdn.discordapp.com/attachments/762149836048433153/762673240237670490/Edge2.zip
+[url]https://marcinoo97.ct8.pl/worcp/apps/Edge.zip
 [locationzip]C:/edge.zip
 [ExtractLocation]C:\Program Files (Arm)\Edge"
-[icon]???
-[App]notEdge
-[url1]https://cdn.discordapp.com/attachments/762149836048433153/762673062901973002/Edge0.zip
-[url2]https://cdn.discordapp.com/attachments/762149836048433153/762673185958920243/Edge1.zip
-[url3]https://cdn.discordapp.com/attachments/762149836048433153/762673240237670490/Edge2.zip
+[icon]https://marcinoo97.ct8.pl/worcp/icon/a.jpg
+[App]Chromium
+[url]https://marcinoo97.ct8.pl/worcp/apps/Chromium.zip
+[locationzip]C:/edge.zip
+[ExtractLocation]C:\Program Files (Arm)\Edge"
+[icon]https://marcinoo97.ct8.pl/worcp/icon/a.jpg
+[App]VLC
+[url]https://marcinoo97.ct8.pl/worcp/apps/Vlc.zip
+[locationzip]C:/edge.zip
+[ExtractLocation]C:\Program Files (Arm)\Edge"
+[icon]https://marcinoo97.ct8.pl/worcp/icon/a.jpg
+[App]Firefox
+[url]https://marcinoo97.ct8.pl/worcp/apps/FireFox.zip
+[locationzip]C:/edge.zip
+[ExtractLocation]C:\Program Files (Arm)\Edge"
+[icon]https://marcinoo97.ct8.pl/worcp/icon/a.jpg
+[App]Rainmeter
+[url]https://marcinoo97.ct8.pl/worcp/apps/Rainmeter.zip
+[locationzip]C:/edge.zip
+[ExtractLocation]C:\Program Files (Arm)\Edge"
+[icon]https://marcinoo97.ct8.pl/worcp/icon/a.jpg
+[App]Paintdotnet
+[url]https://marcinoo97.ct8.pl/worcp/apps/PaintDotNet.zip
 [locationzip]C:/edge.zip
 [ExtractLocation]C:\Program Files (Arm)\Edge"
