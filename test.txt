@@ -1,30 +1,30 @@
-[icon]https://marcinoo97.ct8.pl/worcp/icon/a.jpg
+[icon]https://marcinoo97.ct8.pl/worcp/icon/edge.jpg
 [App]Edge
 [url]https://marcinoo97.ct8.pl/worcp/apps/Edge.zip
-[locationzip]C:/edge.zip
+[locationzip]C:/Edge.zip
 [ExtractLocation]C:\Program Files (Arm)\Edge"
-[icon]https://marcinoo97.ct8.pl/worcp/icon/a.jpg
+[icon]https://marcinoo97.ct8.pl/worcp/icon/chromium.jpg
 [App]Chromium
 [url]https://marcinoo97.ct8.pl/worcp/apps/Chromium.zip
-[locationzip]C:/edge.zip
+[locationzip]C:/Chromium.zip
 [ExtractLocation]C:\Program Files (Arm)\Edge"
-[icon]https://marcinoo97.ct8.pl/worcp/icon/a.jpg
+[icon]https://marcinoo97.ct8.pl/worcp/icon/vlc.jpg
 [App]VLC
 [url]https://marcinoo97.ct8.pl/worcp/apps/Vlc.zip
-[locationzip]C:/edge.zip
+[locationzip]C:/Vlc.zip
 [ExtractLocation]C:\Program Files (Arm)\Edge"
-[icon]https://marcinoo97.ct8.pl/worcp/icon/a.jpg
+[icon]https://marcinoo97.ct8.pl/worcp/icon/firefox.jpg
 [App]Firefox
 [url]https://marcinoo97.ct8.pl/worcp/apps/FireFox.zip
-[locationzip]C:/edge.zip
+[locationzip]C:/FireFox.zip
 [ExtractLocation]C:\Program Files (Arm)\Edge"
-[icon]https://marcinoo97.ct8.pl/worcp/icon/a.jpg
+[icon]https://marcinoo97.ct8.pl/worcp/icon/rainmeter.jpg
 [App]Rainmeter
 [url]https://marcinoo97.ct8.pl/worcp/apps/Rainmeter.zip
-[locationzip]C:/edge.zip
+[locationzip]C:/Rainmeter.zip
 [ExtractLocation]C:\Program Files (Arm)\Edge"
-[icon]https://marcinoo97.ct8.pl/worcp/icon/a.jpg
+[icon]https://marcinoo97.ct8.pl/worcp/icon/paintdotnet.jpg
 [App]Paintdotnet
 [url]https://marcinoo97.ct8.pl/worcp/apps/PaintDotNet.zip
-[locationzip]C:/edge.zip
+[locationzip]C:/PaintDotNet.zip
 [ExtractLocation]C:\Program Files (Arm)\Edge"
