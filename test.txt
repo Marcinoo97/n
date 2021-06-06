@@ -7,24 +7,24 @@
 [App]Chromium
 [url]https://marcinoo97.ct8.pl/worcp/apps/Chromium.zip
 [locationzip]C:/Chromium.zip
-[ExtractLocation]C:\Program Files (Arm)\Edge"
+[ExtractLocation]C:\Program Files (Arm)\Chromium
 [icon]https://marcinoo97.ct8.pl/worcp/icon/vlc.jpg
 [App]VLC
 [url]https://marcinoo97.ct8.pl/worcp/apps/Vlc.zip
 [locationzip]C:/Vlc.zip
-[ExtractLocation]C:\Program Files (Arm)\Edge"
+[ExtractLocation]C:\Program Files (Arm)\Vlc
 [icon]https://marcinoo97.ct8.pl/worcp/icon/firefox.jpg
 [App]Firefox
 [url]https://marcinoo97.ct8.pl/worcp/apps/FireFox.zip
 [locationzip]C:/FireFox.zip
-[ExtractLocation]C:\Program Files (Arm)\Edge"
+[ExtractLocation]C:\Program Files (Arm)\FireFox
 [icon]https://marcinoo97.ct8.pl/worcp/icon/rainmeter.jpg
 [App]Rainmeter
 [url]https://marcinoo97.ct8.pl/worcp/apps/Rainmeter.zip
 [locationzip]C:/Rainmeter.zip
-[ExtractLocation]C:\Program Files (Arm)\Edge"
+[ExtractLocation]C:\Program Files (Arm)\Rainmeter
 [icon]https://marcinoo97.ct8.pl/worcp/icon/paintdotnet.jpg
 [App]Paintdotnet
 [url]https://marcinoo97.ct8.pl/worcp/apps/PaintDotNet.zip
 [locationzip]C:/PaintDotNet.zip
-[ExtractLocation]C:\Program Files (Arm)\Edge"
+[ExtractLocation]C:\Program Files (Arm)\PaintDotNet
