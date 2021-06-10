@@ -1,0 +1,6 @@
+[App]Edge
+[App]Chromium
+[App]VLC
+[App]Firefox
+[App]Rainmeter
+[App]Paintdotnet
